@@ -1,0 +1,30 @@
+Steps for Creating EC2 instance :
+1.Log on to AWS Console
+2.Go to Services -> Compute -> EC2
+3.This will lead you to EC2 dashboard
+4.Click on Instances(running)
+5.You can see all instances you have created earlier
+6.Click on Launch Instance
+7.Give Instance Name
+8.AMI -> Quick Start -> Select Windows
+9.Key Pair -> Click on Create new key pair
+10.Give key name and ok
+11.Click on Launch Instance
+12.View All Instances
+13.Select the instance we have created and Click on Connect
+14.Generate Password -> scan key file -> then generate password
+15.Copy password and Download Remote Desktop File -> Open it
+16.Give password and connect
+17.New Desktop will be opened
+
+
+
+
+Steps for creating S3 :
+1.Go to Services and find S3 and Click on it
+2.Create Bucket 
+3.Give name for bucket which should only include small letters
+4.Click on create bucket 
+5.Click on created bucket, upload files & folders to that bucket
+6.Copy the url of particular bucket and paste in browser , Browser shows access denied
+7.We can make it public at the time of creating bucket.
